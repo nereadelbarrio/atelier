@@ -503,15 +503,15 @@
     text-align: center;
 }
 
-/*énfasis subrayado morado*/
+/*énfasis subrayado rosa*/
 .bck-enfasis-7 {
-	background-color: #A36AAC;
+	background-color: #DD5DA3;
 	padding: 9px 4px;
 }
 
 .cke_contents .bck-enfasis-7 {
     padding: 0px;
-    background-color: #A36AAC;
+    background-color: #DD5DA3;
 }
 
 /* Lists */
