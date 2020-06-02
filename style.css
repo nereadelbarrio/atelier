@@ -536,16 +536,43 @@ content: counter(bck-li-counter) '.';
     font-family: 'Conv_Raleway-Bold';
 }
 
-/*LISTA ORDENADA 2*/
+/*LISTA ORDENADA 2 letras*/
+#actividad .content .cke_contents .bck-ol-2,
+#actividad .content .texto_curso .bck-ol-2,
+#actividad .content .workspace ul li .bck-ol-2,
+#actividad .popover-content .bck-ol-2 {
+  list-style-type: none;
+  counter-reset: bck-li-counter;
+}
 
-.content .bck-ol2 li:before,
-.cke_contents .bck-ol2 li:before {
-	-webkit-box-shadow: 2px 2px 2px 0px rgb(140, 139, 138);
-       -moz-box-shadow: 2px 2px 2px 0px rgb(140, 139, 138);
-    		box-shadow: 2px 2px 2px 0px rgb(140, 139, 138);
-    border: 1px solid #109FC5;
-    background: #fff;
+#actividad .content .cke_contents .bck-ol-2 li,
+#actividad .content .cke_contents .bck-ol-2 li,
+#actividad .content .texto_curso .bck-ol-2 li,
+#actividad .popover-content .bck-ol-2 li,
+#actividad .content .workspace ul li .bck-ol-2 li {
+	list-style-type: none;
+	padding-left: 29px;
+	margin-bottom: 16px;
+	counter-increment: bck-li-counter;
+	position: relative;
+	line-height: 1.1rem;
+	font-family: 'Conv_RobotoSlab-Regular';
+}
+
+#actividad .content .cke_contents ol.bck-ol-2 li:before,
+#actividad .content .texto_curso ol.bck-ol-2 li:before,
+#actividad .popover-content ol.bck-ol-2 li:before,
+#actividad .content .workspace ul li ol.bck-ol-2 li:before  {
+	content: counter(bck-li-counter, lower-alpha)'.';
+	top: -5px;
+	left: 10px;
+    position: absolute;
+    top: 1px;
+    left: 10px;
     color: #000;
+    line-height: 2rem;
+    color: #F15923;
+    line-height: 2rem;
 }
 
 /*LISTA ORDENADA 3*/
