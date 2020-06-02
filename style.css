@@ -776,24 +776,12 @@ content: counter(bck-li-counter) '.';
 	margin-top: -16px;
 }
 
-.item-container .icon-draw:before {
-	background-image: url(images/Icon_draw.png);
+.item-container .icon-observez:before {
+	background-image: url(images/icono_observez.png);
 }
 
-.item-container .icon-write:before {
-	background-image: url(images/Icon_write.png);
-}
-
-.item-container .icon-speaking:before {
-	background-image: url(images/Icon_speaking.png);
-}
-
-.item-container .icon-reading:before {
-	background-image: url(images/Icon_reading.png);
-}
-
-.item-container .icon-star:before {
-	background-image: url(images/Icon_star.png);
+.item-container .icon-appliquez:before {
+	background-image: url(images/icono_appliquez.png);
 }
 
 /* Forms */
