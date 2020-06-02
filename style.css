@@ -486,6 +486,19 @@
     background-color: #FCAD1A;
 }
 
+
+/*énfasis círculo morado*/
+.bck-enfasis-6 {
+	font-weight: 700;
+    background: #A36AAC;
+    color: #ffff;
+    border-radius: 50%;
+    padding: 0px 9px 3px 9px;
+    font-size: 2.2rem;
+    line-height: unset;
+    text-align: center;
+}
+
 /* Lists */
 .texto_curso ul li,
 .workspace ul li ul li,
