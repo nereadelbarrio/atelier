@@ -536,7 +536,7 @@ content: counter(bck-li-counter) '.';
     font-family: 'Conv_Raleway-Bold';
 }
 
-/*LISTA ORDENADA 2 letras*/
+/*LISTA letras 1*/
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2,
@@ -556,7 +556,6 @@ content: counter(bck-li-counter) '.';
 	counter-increment: bck-li-counter;
 	position: relative;
 	line-height: 1.1rem;
-	font-family: 'Conv_RobotoSlab-Regular';
 }
 
 #actividad .content .cke_contents ol.bck-ol-2 li:before,
@@ -569,10 +568,11 @@ content: counter(bck-li-counter) '.';
     position: absolute;
     top: 1px;
     left: 10px;
-    color: #000;
+    color: #414141;
     line-height: 2rem;
     color: #F15923;
     line-height: 2rem;
+    font-family: 'Conv_Raleway-Bold';
 }
 
 /*LISTA ORDENADA 3*/
