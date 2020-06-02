@@ -32,7 +32,7 @@
 				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
 
 				{ name: 'Icono Observez', element: 'span', attributes: { 'class': 'icon icon-observez' } },
-				{ name: 'Icono Appliquez', element: 'span', attributes: { 'class': 'icon-appliquez' } }
+				{ name: 'Icono Appliquez', element: 'span', attributes: { 'class': 'icon icon-appliquez' } }
 			]
 		},
 
