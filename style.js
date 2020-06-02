@@ -29,6 +29,7 @@
 				{ name: 'Lista num 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-3' } },
 				{ name: 'Lista num 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-4' } },
 				{ name: 'Lista num 4', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-5' } },
+				{ name: 'Lista num 5', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-6' } },
 
 				{ name: 'Caja 1 azul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 2 naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
