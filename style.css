@@ -646,30 +646,54 @@ content: counter(bck-li-counter) '.';
 
 /*CAJAS*/
 
-.bck-box {
+/*caja 1 azul*/
+.bck-box.bck-box-1{
 	margin: 10px;
-	border: 2px solid #10a0c6;
-	-webkit-border-radius: 10px;
-	   -moz-border-radius: 10px;
-	        border-radius: 10px;
-	background: #fff;
-	padding: 6px;
+    padding: 6px;
 }
 
-.bck-box .bck-content p:last-child {
-	margin-bottom: 0;
+.bck-box-1 .bck-title{
+	background-color: #f15923;
+    width: fit-content;
+    border-radius: 15px 15px 0 0px;
+    padding: 3px 15px 0px 15px;
+    color: #ffff;
+    position: relative;
+    top: 15px;
+
 }
 
-/* Caja 2 */
-.bck-box.bck-box2 {
-	-webkit-box-shadow: 0 3px 0 #BCBDC0;
-	   -moz-box-shadow: 0 3px 0 #BCBDC0;
-	        box-shadow: 0 3px 0 #BCBDC0;
-	-webkit-border-radius: 50%;
-	   -moz-border-radius: 50%;
-	        border-radius: 50%;
-	padding: 6px 15px;
-	text-align: center;
+.bck-box-1 .bck-content{
+	border: 8px solid #f15923;
+    font-size: 2rem;
+    padding: 8px 8px 8px 8px;
+    width: fit-content;
+    border-radius: 0 15px 15px 15px;
+}
+
+/*caja 2 naranja*/
+.bck-box.bck-box-2{
+	margin: 10px;
+    padding: 6px;
+}
+
+.bck-box-2 .bck-title{
+	background-color: #f15923;
+    width: fit-content;
+    border-radius: 15px 15px 0 0px;
+    padding: 3px 15px 0px 15px;
+    color: #ffff;
+    position: relative;
+    top: 15px;
+
+}
+
+.bck-box-2 .bck-content{
+	border: 8px solid #f15923;
+    font-size: 2rem;
+    padding: 8px 8px 8px 8px;
+    width: fit-content;
+    border-radius: 0 15px 15px 15px;
 }
 
 /* Caja 3 */
