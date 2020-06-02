@@ -17,11 +17,12 @@
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
 				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title bck-title2'} },
 				
-				{ name: 'Énfasis círculo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
-				{ name: 'Énfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
-				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
-				{ name: 'Énfasis gris', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
-				{ name: 'Énfasis subrayado naranja', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'Círculo azul', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				{ name: 'Morado', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
+				{ name: 'Gris', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
+				{ name: 'Subrayado naranja', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'Círculo morado', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 
 				{ name: 'Lista num 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista letras 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
