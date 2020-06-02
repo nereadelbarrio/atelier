@@ -908,8 +908,8 @@ content: counter(bck-li-counter) '.';
 	background-position: center center;
 	display: inline-block;
 	vertical-align: middle;
-	height: 40px;
-	width: 54px;
+	height: 30px;
+    	width: 38px;
 	margin-top: -16px;
 }
 
