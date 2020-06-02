@@ -658,8 +658,7 @@ content: counter(bck-li-counter) '.';
     font-family: 'Conv_Raleway-Bold';
 }
 
-/*Lista num 4*/
-
+/*Lista num 3*/
 #actividad .content .cke_contents .bck-ol-4,
 #actividad .content .texto_curso .bck-ol-4,
 #actividad .content .workspace ul li .bck-ol-4,
@@ -681,8 +680,6 @@ content: counter(bck-li-counter) '.';
 	line-height: 1.1rem;
 	font-weight: 700;
 	font-size: 1.8rem;
-	font-family: 'Conv_Raleway-Bold';
-	color: #A36AAC;
 }
 
 #actividad .content .cke_contents .bck-ol-4 li:before,
@@ -702,7 +699,7 @@ content: counter(bck-li-counter) '.';
     padding-top: 1px;
     border-radius: 25px;
     background-color: #068DD0;
-    font-size: 2rem;
+    font-size:1.8rem;
 }
 
 /*Lista num 4*/
@@ -734,7 +731,7 @@ content: counter(bck-li-counter) '.';
 	content: counter(bck-li-counter)'.';
     position: absolute;
     top: 3px;
-    left: 14px;
+    left: 7px;
     color: #231F20;
     line-height: 2rem;
     font-family: 'Conv_Raleway-Bold';
