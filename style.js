@@ -21,6 +21,7 @@
 				{ name: 'Énfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'Énfasis gris', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
+				{ name: 'Énfasis subrayado naranja', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 
 				{ name: 'Lista num 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista letras 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
