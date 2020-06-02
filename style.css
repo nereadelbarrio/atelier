@@ -668,8 +668,15 @@ content: counter(bck-li-counter) '.';
 /* Icons */
 #actividad .player.audio {
 	background: url(images/icono_audio.png) center center / cover;
+	display: inline-block;
+    background-color: rgba(0, 128, 0, 0)!important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 5px;
+    vertical-align: sub;
+    position: relative;
+    top: 4px;
 }
-
 .item-container .icon:before {
 	content: "";
 	background-repeat: no-repeat;
