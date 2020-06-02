@@ -705,6 +705,41 @@ content: counter(bck-li-counter) '.';
     font-size: 2rem;
 }
 
+/*Lista num 4*/
+#actividad .content .cke_contents .bck-ol-5,
+#actividad .content .texto_curso .bck-ol-5,
+#actividad .content .workspace ul li .bck-ol-5,
+#actividad .popover-content .bck-ol-5 {
+  list-style-type: none;
+  counter-reset: bck-li-counter;
+}
+
+#actividad .content .cke_contents .bck-ol-5 li,
+#actividad .content .cke_contents .bck-ol-5 li,
+#actividad .content .texto_curso .bck-ol-5 li,
+#actividad .popover-content .bck-ol-5 li,
+#actividad .content .workspace ul li .bck-ol-5 li {
+	list-style-type: none;
+	padding-left: 35px;
+	margin-bottom: 16px;
+	counter-increment: bck-li-counter;
+	position: relative;
+	line-height: 1.1rem;
+}
+
+#actividad .content .cke_contents ol.bck-ol-5 li:before,
+#actividad .content .texto_curso ol.bck-ol-5 li:before,
+#actividad .popover-content ol.bck-ol-5 li:before,
+#actividad .content .workspace ul li ol.bck-ol-5 li:before  {
+	content: counter(bck-li-counter)'.';
+    position: absolute;
+    top: 3px;
+    left: 14px;
+    color: #231F20;
+    line-height: 2rem;
+    font-family: 'Conv_Raleway-Bold';
+}
+
 /*LISTA DESORDENADA POR DEFECTO*/
 
 .texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
