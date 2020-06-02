@@ -810,6 +810,11 @@ content: counter(bck-li-counter) '.';
 	background-image: url(images/icono_appliquez.png);
 }
 
+.item-container .icon-mano:before {
+	background-image: url(images/icono_mano.png);
+}
+
+
 /* Forms */
 
 .content_type_clase_atelier .slide_main input,
