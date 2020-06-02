@@ -514,6 +514,18 @@
     background-color: #DD5DA3;
 }
 
+/*énfasis círculo verde*/
+.bck-enfasis-8 {
+	font-weight: 700;
+    background: #90C958;
+    color: #58585A;
+    border-radius: 50%;
+    padding: 0px 9px 3px 9px;
+    font-size: 2.2rem;
+    line-height: unset;
+    text-align: center;
+}
+
 /* Lists */
 .texto_curso ul li,
 .workspace ul li ul li,
