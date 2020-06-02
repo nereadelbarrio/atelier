@@ -23,7 +23,7 @@
 				{ name: 'Gris', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Subrayado naranja', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'Círculo morado', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
-				{ name: 'Subrayado morado', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
+				{ name: 'Subrayado rosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 
 				{ name: 'Lista num 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista letras 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
