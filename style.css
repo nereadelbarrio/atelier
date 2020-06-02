@@ -456,6 +456,23 @@
     text-align: center;
 }
 
+/*énfasis morado*/
+.bck-enfasis-2 {
+	color: #A36AAC;
+    padding: 9px 4px;
+}
+
+/*énfasis naranja*/
+.bck-enfasis-3 {
+    color: #FCAD1A;
+}
+
+
+/*énfasis gris*/
+.bck-enfasis-4 {
+    color: #58585A;
+}
+
 /* Lists */
 .texto_curso ul li,
 .workspace ul li ul li,
