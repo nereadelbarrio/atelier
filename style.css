@@ -473,6 +473,16 @@
     color: #58585A;
 }
 
+/*énfasis subrayado naranja*/
+.bck-enfasis-5 {
+	background-color: #FCAD1A;
+}
+
+.cke_contents .bck-enfasis-3 {
+    padding: 0px;
+    background-color: #0071BB;
+}
+
 /* Lists */
 .texto_curso ul li,
 .workspace ul li ul li,
