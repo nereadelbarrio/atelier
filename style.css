@@ -128,9 +128,7 @@
 	}
 
 	.content_type_clase_atelier #actividad .content .header .title {
-		margin: -40px 0 20px;
-		background: #10A0C6;
-		padding: 20px 97px;
+		display: none;
 	}
 
 	.content_type_clase_atelier #actividad .content .slide-concatenate .header .title {
