@@ -987,6 +987,30 @@ content: counter(bck-li-counter) '.';
 	background-image: url(images/icono_mano.png);
 }
 
+/*secciones colores audios*/
+#actividad .audioverde .player.audio {
+	background: url(images/icono_audioverde.png) center center / cover;
+	display: inline-block;
+    background-color: rgba(0, 128, 0, 0)!important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 5px;
+    vertical-align: sub;
+    position: relative;
+    top: 4px;
+}
+
+#actividad .audioazul .player.audio {
+	background: url(images/icono_audioazul.png) center center / cover;
+	display: inline-block;
+    background-color: rgba(0, 128, 0, 0)!important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 5px;
+    vertical-align: sub;
+    position: relative;
+    top: 4px;
+}
 
 /* Forms */
 
