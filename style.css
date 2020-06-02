@@ -486,7 +486,6 @@
     background-color: #FCAD1A;
 }
 
-
 /*énfasis círculo morado*/
 .bck-enfasis-6 {
 	font-weight: 700;
@@ -497,6 +496,17 @@
     font-size: 2.2rem;
     line-height: unset;
     text-align: center;
+}
+
+/*énfasis subrayado morado*/
+.bck-enfasis-7 {
+	background-color: #A36AAC;
+	padding: 9px 4px;
+}
+
+.cke_contents .bck-enfasis-7 {
+    padding: 0px;
+    background-color: #A36AAC;
 }
 
 /* Lists */
