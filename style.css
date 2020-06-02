@@ -658,9 +658,8 @@ content: counter(bck-li-counter) '.';
 }
 
 /* Icons */
-
 #actividad .player.audio {
-	background: url(images/Icon_audio.png) center center / cover;
+	background: url(images/icono_audio.png) center center / cover;
 }
 
 .item-container .icon:before {
