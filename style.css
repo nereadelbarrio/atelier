@@ -691,42 +691,31 @@ content: counter(bck-li-counter) '.';
 }
 
 /* Caja 3 */
-.bck-box.bck-box3 {
+.bck-box.bck-box-3 {
 	position: relative;
-	-webkit-box-shadow: 1px 1px 1px rgba(0,0,0,.5);
-	   -moz-box-shadow: 1px 1px 1px rgba(0,0,0,.5);
-	        box-shadow: 1px 1px 1px rgba(0,0,0,.5);
-	-webkit-transform: rotate(2deg);
-	   -moz-transform: rotate(2deg);
-	    -ms-transform: rotate(2deg);
-	     -o-transform: rotate(2deg);
-	        transform: rotate(2deg);
+	border-left: 2px solid #FCAD1A;
+    border-bottom: 2px solid #FCAD1A;
+    background-color: #F6F5EE;
+    padding: 6px;
 }
 
-.bck-box.bck-box3 .bck-title {
-	position: absolute;
-	top: 0;
-	left: 50%;
-	-webkit-transform: translate(-50%,-50%);
-	   -moz-transform: translate(-50%,-50%);
-	    -ms-transform: translate(-50%,-50%);
-	     -o-transform: translate(-50%,-50%);
-	        transform: translate(-50%,-50%);
-	display: inline-block;
-	border: 1px solid #10a0c6;
-	-webkit-border-radius: 10px;
-	   -moz-border-radius: 10px;
-	        border-radius: 10px;
-	background: #fff;
-	padding: 0 6px;
+.bck-box.bck-box-3 .bck-title {
+	position: relative;
+    top: -22px;
+    left: -6px;
+    width: fit-content;
+    background: #fff;
+    padding: 0px 13px;
+    color: #FCAD1A;
+    font-size: 2rem;
 }
 
-.bck-box.bck-box3 .bck-title p {
+.bck-box.bck-box-3 .bck-title p {
 	display: inline;
 }
 
-.bck-box.bck-box3 .bck-content {
-	margin-top: 15px;
+.bck-box.bck-box-3 .bck-content {
+	padding: 0px 8px 0px 8px;
 }
 
 /*TABLA POR DEFECTO*/
