@@ -24,6 +24,7 @@
 				{ name: 'Subrayado naranja', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'Círculo morado', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'Subrayado rosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
+				{ name: 'Círculo verde', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 
 				{ name: 'Lista num 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista letras 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
@@ -31,6 +32,7 @@
 				{ name: 'Lista num 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-4' } },
 				{ name: 'Lista num 4', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-5' } },
 				{ name: 'Lista num 5', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-6' } },
+				{ name: 'Lista num 6', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-7' } },
 
 				{ name: 'Caja 1 azul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 2 naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
