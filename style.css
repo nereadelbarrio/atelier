@@ -973,6 +973,7 @@ content: counter(bck-li-counter) '.';
 	height: 30px;
     	width: 38px;
 	margin-top: -16px;
+	margin-right: 5px;
 }
 
 .item-container .icon-observez:before {
