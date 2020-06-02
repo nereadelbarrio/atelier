@@ -73,6 +73,11 @@
 }
 
 /* General */
+       body {
+	    font: 400 15px 'Conv_Raleway-Regular',sans-serif;
+	    line-height: 21px;
+	    color: #414141;
+	}
 
 	body.content_type_clase_atelier {
 		font-size: 1.8rem;
