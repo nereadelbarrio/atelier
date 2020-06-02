@@ -648,52 +648,46 @@ content: counter(bck-li-counter) '.';
 
 /*caja 1 azul*/
 .bck-box.bck-box-1{
-	margin: 10px;
     padding: 6px;
+    border: 2px solid #A8A9AD;
+    border-radius: 1px 30px 0px 30px;
 }
 
 .bck-box-1 .bck-title{
-	background-color: #f15923;
-    width: fit-content;
-    border-radius: 15px 15px 0 0px;
+	background-color: #20BCB7;
+    width: fit-content;*/
     padding: 3px 15px 0px 15px;
     color: #ffff;
     position: relative;
-    top: 15px;
-
+    top: 6px;
+    left: -9px;
+    font-family: 'Conv_Raleway-Bold';
 }
 
 .bck-box-1 .bck-content{
-	border: 8px solid #f15923;
-    font-size: 2rem;
     padding: 8px 8px 8px 8px;
-    width: fit-content;
-    border-radius: 0 15px 15px 15px;
 }
 
 /*caja 2 naranja*/
 .bck-box.bck-box-2{
-	margin: 10px;
     padding: 6px;
+    border: 2px solid #A8A9AD;
+    border-radius: 1px 30px 0px 30px;
 }
 
 .bck-box-2 .bck-title{
-	background-color: #f15923;
-    width: fit-content;
-    border-radius: 15px 15px 0 0px;
+	background-color: #FCAD1A;
+    width: fit-content;*/
     padding: 3px 15px 0px 15px;
     color: #ffff;
     position: relative;
-    top: 15px;
-
+    top: 6px;
+    left: -9px;
+    font-family: 'Conv_Raleway-Bold';
 }
 
 .bck-box-2 .bck-content{
-	border: 8px solid #f15923;
-    font-size: 2rem;
     padding: 8px 8px 8px 8px;
-    width: fit-content;
-    border-radius: 0 15px 15px 15px;
 }
 
 /* Caja 3 */
