@@ -26,7 +26,7 @@
 
 				{ name: 'Caja 1 azul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 2 naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
-				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box3' } },
+				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
 
 				{ name: 'Icono Draw', element: 'span', attributes: { 'class': 'icon icon-draw' } },
 				{ name: 'Icono Write', element: 'span', attributes: { 'class': 'icon icon-write' } },
