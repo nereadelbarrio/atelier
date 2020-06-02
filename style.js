@@ -31,11 +31,8 @@
 				{ name: 'Caja 2 naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
 				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
 
-				{ name: 'Icono Draw', element: 'span', attributes: { 'class': 'icon icon-draw' } },
-				{ name: 'Icono Write', element: 'span', attributes: { 'class': 'icon icon-write' } },
-				{ name: 'Icono Speaking', element: 'span', attributes: { 'class': 'icon icon-speaking' } },
-				{ name: 'Icono Reading', element: 'span', attributes: { 'class': 'icon icon-reading' } },
-				{ name: 'Icono Star', element: 'span', attributes: { 'class': 'icon icon-star' } }
+				{ name: 'Icono Observez', element: 'span', attributes: { 'class': 'icon icon-observez' } },
+				{ name: 'Icono Appliquez', element: 'span', attributes: { 'class': 'icon-appliquez' } }
 			]
 		},
 
