@@ -655,7 +655,7 @@ content: counter(bck-li-counter) '.';
 
 .bck-box-1 .bck-title{
 	background-color: #20BCB7;
-    width: fit-content;*/
+    width: fit-content;
     padding: 3px 15px 0px 15px;
     color: #ffff;
     position: relative;
@@ -677,7 +677,7 @@ content: counter(bck-li-counter) '.';
 
 .bck-box-2 .bck-title{
 	background-color: #FCAD1A;
-    width: fit-content;*/
+    width: fit-content;
     padding: 3px 15px 0px 15px;
     color: #ffff;
     position: relative;
