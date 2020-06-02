@@ -442,6 +442,14 @@
     			 0px 1px #fff;
 }
 
+/*énfasis*/
+
+/*énfasis círculo azul*/
+.bck-enfasis-1 {
+	font-weight: 700;
+    color: #F15923;
+}
+
 /* Lists */
 .texto_curso ul li,
 .workspace ul li ul li,
