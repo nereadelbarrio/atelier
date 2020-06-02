@@ -19,8 +19,8 @@
 				
 				{ name: 'Énfasis círculo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 
-				{ name: 'Lista ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
-				{ name: 'Lista ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
+				{ name: 'Lista num 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
+				{ name: 'Lista letras 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
 				{ name: 'Lista ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-3' } },
 				{ name: 'Lista ordenada 4', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-4' } },
 
