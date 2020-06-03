@@ -445,6 +445,11 @@ a:hover, a:active, a:focus{
 
 /*botones*/
 /*botones*/
+.btn-primary[disabled], 
+.btn-primary[disabled]:focus{
+	background-color: #20BCB7;
+}
+
 .btn-primary, 
 .btn-primary.disabled, 
 .btn-primary.disabled:hover, 
@@ -458,6 +463,24 @@ a:hover, a:active, a:focus{
 .btn-primary.active, 
 .open .dropdown-toggle.btn-primary{
 	background-color: #008e9c;
+}
+
+.btn-primary.disabled, 
+.btn-primary[disabled], 
+fieldset[disabled] .btn-primary, 
+.btn-primary.disabled:hover, 
+.btn-primary[disabled]:hover, 
+fieldset[disabled] .btn-primary:hover, 
+.btn-primary.disabled:focus, 
+.btn-primary[disabled]:focus, 
+fieldset[disabled] .btn-primary:focus, 
+.btn-primary.disabled:active, 
+.btn-primary[disabled]:active, 
+fieldset[disabled] .btn-primary:active, 
+.btn-primary.disabled.active,
+.btn-primary[disabled].active, 
+fieldset[disabled] .btn-primary.active{
+	background-color: #176b74;
 }
 
 
