@@ -26,6 +26,7 @@
 				{ name: 'Subrayado rosa', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Círculo verde', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
+				{ name: 'Énfasis cuadrado', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 
 				{ name: 'Lista num 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista letras 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
