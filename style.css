@@ -270,7 +270,7 @@
 
 /* Navbar */
 	.navbar-bottom {
-		background: #132E4C;
+		background: #006d78;
 		padding-left: 100px;
 		padding-right: 100px;
 	}
@@ -359,7 +359,7 @@
 		color: transparent;
 	}
 	#bottom-navigator li.active {
-		background: #007FA3;
+		background: #20BCB7;
 		color: transparent;
 	}
 	#bottom-navigator.show_left:before {
@@ -399,7 +399,52 @@
 		background: linear-gradient(to left, #132E4C, transparent);
 	}
 
+	.libro-left ul, .libro-right ul{
+		background-color: #006d78;
+	}
+
+	.navbar.libro{
+		background: #006d78 !important;
+	}
+
+	.body_clase .libro-left .title{
+		background-color: #006d78;
+	}
+
 /**/
+
+/*botones*/
+.btn-danger,
+.btn-danger[disabled]{
+	background-color: #B22F6A;
+}
+
+.btn-danger:hover, 
+.btn-danger:focus, 
+.btn-danger:active, 
+.btn-danger.active, 
+.open .dropdown-toggle.btn-danger{
+	background-color: #b22f6abf;
+}
+
+.btn-solution, 
+.btn-solution.disabled, 
+.btn-solution[disabled], 
+.btn-next, 
+.btn-next.disabled, 
+.btn-next[disabled]{
+	background-color: #36C1CF;
+}
+
+.btn-solution:hover, 
+.btn-solution:focus, 
+.btn-solution:active, 
+.btn-next:hover, 
+.btn-next:focus, 
+.btn-next:active, 
+.open .dropdown-toggle.btn-solution{
+	background-color: #afedf3;
+}
 
 /*TITULO 1*/
 
@@ -1201,6 +1246,18 @@ body.content_type_clase_atelier #actividad .content .fillblanks-draggable
     display: inline;
     position: relative;
     top: -4px;
+}
+
+#actividad .workspace.chooseblanks .respuesta_ok{
+	background-color: #e3f8ce;
+	color: #90C958;
+    border-color: #90C958;
+}
+
+#actividad .workspace.chooseblanks .respuesta_ko{
+	background-color: #FBD1CB;
+	color: #B22F6A;
+    border-color: #B22F6A;
 }
 
 /*querys*/
