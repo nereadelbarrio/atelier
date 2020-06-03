@@ -1137,6 +1137,12 @@ body.content_type_clase_atelier #actividad .content .fillblanks-draggable
 	border-bottom: 2px solid #C8C9CB;
 }
 
+#actividad .workspace.chooseblanks .inline-answer{
+    display: inline;
+    position: relative;
+    top: -4px;
+}
+
 /*querys*/
 @media screen and (max-width: 768px){
 	#actividad .workspace.test .respuestas li {
