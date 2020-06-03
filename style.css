@@ -963,6 +963,10 @@ table,
   border: 0px solid #ccc;
 }
 
+.bck-table-responsive{
+	overflow-y: hidden;
+}
+
 /* Icons */
 #actividad .player.audio {
 	background: url(images/icono_audio.png) center center / cover;
