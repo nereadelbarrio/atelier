@@ -1132,6 +1132,10 @@ body.content_type_clase_atelier #actividad .content .fillblanks-draggable
     font-size: 1.7rem;
 }
 
+#actividad .workspace.chooseblanks select{
+	border-bottom: 2px solid #C8C9CB;
+}
+
 /*querys*/
 @media screen and (max-width: 768px){
 	#actividad .workspace.test .respuestas li {
