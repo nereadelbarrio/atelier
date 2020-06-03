@@ -1021,6 +1021,18 @@ content: counter(bck-li-counter) '.';
     top: 4px;
 }
 
+#actividad .audiorosa .player.audio {
+	background: url(images/icono_audiorosa.png) center center / cover;
+	display: inline-block;
+    background-color: rgba(0, 128, 0, 0)!important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 5px;
+    vertical-align: sub;
+    position: relative;
+    top: 4px;
+}
+
 /* Forms */
 
 .content_type_clase_atelier .slide_main input,
