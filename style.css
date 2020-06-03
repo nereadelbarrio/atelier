@@ -1114,3 +1114,21 @@ body.content_type_clase_atelier #actividad .content .fillblanks-draggable
     -moz-border-radius: 0px;
     border-radius: 0px;
 }
+
+#actividad .workspace.test .respuestas li{
+	width: 31%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#actividad .workspace label{
+	font-weight: normal;
+    font-size: 1.7rem;
+}
+
+/*querys*/
+@media screen and (max-width: 768px){
+	#actividad .workspace.test .respuestas li {
+    width: 31%;
+}
+}
