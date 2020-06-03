@@ -447,6 +447,12 @@
 
 /*énfasis*/
 
+/*strong*/
+strong {
+    font-weight: 700;
+    font-family: 'Conv_Raleway-Bold';
+}
+
 /*énfasis círculo azul*/
 .bck-enfasis-1 {
     font-weight: 700;
